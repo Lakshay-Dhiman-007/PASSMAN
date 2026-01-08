@@ -28,4 +28,15 @@ clang -o passman PASSMAN.c
 ```bash
 ./passman
 ```
+## 📚 Motivation
+
+I realized all my passwords were scattered everywhere —  
+some scribbled in a notebook, some saved in the browser,  
+others hiding in random notepad files. 🌀  
+
+So I decided to write my own password manager.  
+Not just a tool, but a little playground to learn, experiment,  
+and add a few sprinkles of creativity along the way. ✨  
+
+PASSMAN is the result: simple, honest, and written in pure C with love. ❤️
 
